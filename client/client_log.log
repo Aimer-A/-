@@ -1,0 +1,56 @@
+2024-01-02 18:49:31,853 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+
+
+Traceback (most recent call last):
+  File "client.py", line 24, in <module>
+  File "PyInstaller\loader\pyimod02_importers.py", line 385, in exec_module
+  File "main_ui.py", line 12, in <module>
+ImportError: DLL load failed: 找不到指定的程序。2024-01-03 14:27:07,475 - ERROR - An error occurred in the main application: 'PySide6.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 14:34:49,423 - ERROR - An error occurred in the main application: 'PySide6.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 14:35:05,953 - ERROR - An error occurred in the main application: 'PySide6.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 14:38:49,699 - ERROR - An error occurred in the main application: 'PySide6.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 15:40:59,196 - ERROR - An error occurred in rec(): [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2024-01-03 15:41:08,771 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-01-03 16:29:48,540 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-01-03 16:50:42,278 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 16:52:19,318 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 16:52:56,068 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-03 16:59:00,066 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-01-03 16:59:00,067 - ERROR - An error occurred in restoreMainWindow(): arguments did not match any overloaded call:
+  scaled(self, width: int, height: int, aspectRatioMode: Qt.AspectRatioMode = Qt.IgnoreAspectRatio, transformMode: Qt.TransformationMode = Qt.FastTransformation): argument 1 has unexpected type 'QSize'
+  scaled(self, size: QSize, aspectRatioMode: Qt.AspectRatioMode = Qt.IgnoreAspectRatio, transformMode: Qt.TransformationMode = Qt.FastTransformation): 'aspectMode' is not a valid keyword argument
+2024-01-03 16:59:04,675 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-01-03 16:59:04,676 - ERROR - An error occurred in restoreMainWindow(): arguments did not match any overloaded call:
+  scaled(self, width: int, height: int, aspectRatioMode: Qt.AspectRatioMode = Qt.IgnoreAspectRatio, transformMode: Qt.TransformationMode = Qt.FastTransformation): argument 1 has unexpected type 'QSize'
+  scaled(self, size: QSize, aspectRatioMode: Qt.AspectRatioMode = Qt.IgnoreAspectRatio, transformMode: Qt.TransformationMode = Qt.FastTransformation): 'aspectMode' is not a valid keyword argument
+2024-01-03 16:59:51,336 - ERROR - An error occurred in restoreMainWindow(): arguments did not match any overloaded call:
+  scaled(self, width: int, height: int, aspectRatioMode: Qt.AspectRatioMode = Qt.IgnoreAspectRatio, transformMode: Qt.TransformationMode = Qt.FastTransformation): argument 1 has unexpected type 'QSize'
+  scaled(self, size: QSize, aspectRatioMode: Qt.AspectRatioMode = Qt.IgnoreAspectRatio, transformMode: Qt.TransformationMode = Qt.FastTransformation): 'aspectMode' is not a valid keyword argument
+2024-01-04 09:20:49,564 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-01-04 09:30:41,678 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2024-01-04 09:32:22,985 - ERROR - An error occurred in save_res(): [Errno 2] No such file or directory: ''
+2024-01-04 09:32:27,001 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+2024-01-04 09:46:35,789 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-04 09:50:44,096 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-04 09:53:59,629 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-04 09:54:13,047 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+2024-01-04 10:18:56,589 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+2024-01-04 10:24:12,658 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+2024-01-04 10:24:15,802 - ERROR - An error occurred in print_res(): 'NoneType' object is not iterable
+2024-01-04 10:24:17,255 - ERROR - An error occurred in print_res(): 'NoneType' object is not iterable
+2024-01-04 10:29:38,244 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+2024-01-04 10:29:40,718 - ERROR - An error occurred in print_res(): 'NoneType' object is not iterable
+2024-01-04 10:29:41,123 - ERROR - An error occurred in print_res(): 'NoneType' object is not iterable
+2024-01-04 10:29:41,260 - ERROR - An error occurred in print_res(): 'NoneType' object is not iterable
+2024-01-04 11:24:53,707 - ERROR - An error occurred in print_res(): 'NoneType' object is not iterable
+2024-01-08 16:53:54,104 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-08 16:54:19,815 - ERROR - An error occurred in the main application: 'PySide2.QtWidgets.QApplication' object has no attribute 'exec'
+2024-01-10 16:26:25,000 - ERROR - An error occurred in rec(): OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1121: error: (-215:Assertion failed) !image.empty() in function 'cv::imencode'
+
+2024-01-10 16:28:17,453 - ERROR - An error occurred in rec(): [WinError 10061] 由于目标计算机积极拒绝，无法连接。

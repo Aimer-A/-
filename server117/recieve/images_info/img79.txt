@@ -1,0 +1,6 @@
+BPD(Hadlock) 	35.37mm    	16w6d
+OFDHC        	42.99mm    	 
+HC(Hadlock)  	125.10mm   	16w2d
+HC*Hadlock   	123.44mm   	16w1d
+AC(Hadlock)  	106.58mm   	16w4d
+FLHadlock)   	23.36mm    	17w0d
